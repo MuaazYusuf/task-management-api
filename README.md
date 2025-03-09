@@ -155,4 +155,4 @@ npm run seed:prod
 
 ### AWS Deployment
 
-The API can be deployed to AWS using the included CI/CD pipeline. See the [deployment documentation](docs/deployment.md) for details.
+The API can be deployed to AWS using the included CI/CD pipeline. See the [deployment documentation](/deployment.md) for details.
